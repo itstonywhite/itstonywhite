@@ -169,7 +169,6 @@ I enjoy understanding how things work underneath and build them myself.
 - Probability
 - Statistics
 - Optimization
-- Mathematics for Machine Learning
 
 ### 🧠 AI / ML
 
@@ -177,26 +176,27 @@ I enjoy understanding how things work underneath and build them myself.
 - Neural Networks
 - Deep Learning
 - Computer Vision
-- PyTorch
-- TorchVision
-- OpenCV
-- Scikit-learn
-- Hugging Face
+- Natural Language Processing
+- Large Language Models
+- RAG Systems
 - AI Agents
+- MCP (Model Contex Protocol)
 
 ### 🚀 Software & Product Engineering
 
 - TypeScript
 - React
+- Redux
 - Next.js
+- Web Socket
 - Node.js
 - Express.js
 - Nest.js
-- PostgreSQL
-- MySQL
 - MongoDB
+- MySQL
+- PostgreSQL
 - Docker
-- CI/CD
+- Webpack
 - Cloud & deployment workflows
 
 ---
