@@ -11,12 +11,14 @@
 <!-- Roles -->
 ### `Full-Stack Developer` · `Software Engineer` · `AI/ML Engineer in Progress`
 
+<!-- GitHub Info -->
 <p>
     <img src="https://img.shields.io/github/followers/itstonywhite?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub followers"/>
     <img src="https://img.shields.io/github/stars/itstonywhite?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub stars"/>
   <img src="https://komarev.com/ghpvc/?username=itstonywhite&label=PROFILE+VIEWS&style=for-the-badge&color=181717" alt="Profile views"/>
 </p>
 
+<!-- Socials -->
 <p>
     <img src="https://img.shields.io/badge/GitHub-itstonywhite-181717?style=flat-square&logo=github" alt="GitHub"/>
   <a href="https://x.com/itstonywhite_">
@@ -27,6 +29,7 @@
   </a>
 </p>
 
+<!-- Quote -->
 > **I build software, study the mathematics behind intelligent systems, and turn ideas into real products.**
 
 </div>
