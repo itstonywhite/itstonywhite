@@ -38,7 +38,7 @@
 
 ## 🧑🏻‍💻 About Me
 
-I'm Tony — a 17-year-old focused on building across the full software stack while moving deeper into **Machine Learning and AI Engineering**.
+I'm Tony — 17-year-old focused on building across the full software stack while moving deeper into **Machine Learning and AI Engineering**.
 I enjoy understanding how things work underneath and build them myself.
 
 ```text
