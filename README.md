@@ -36,26 +36,26 @@
 
 ---
 
-## 🧠 About Me
+## 🧑🏻‍💻 About Me
 
-I'm Tony — a developer focused on building across the full software stack while moving deeper into **Machine Learning and AI Engineering**.
-
-I enjoy understanding how things work underneath the abstraction, not just learning how to use a library.
+I'm Tony — a 17-year-old focused on building across the full software stack while moving deeper into **Machine Learning and AI Engineering**.
+I enjoy understanding how things work underneath and build them myself.
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
-│  BUILD  →  UNDERSTAND  →  EXPERIMENT  →  SHIP  →  REPEAT            │
+│  IDEAS --> BUILD --> UNDERSTAND --> LEARN --> EXPERIMENT --> SHIP    │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
-### What I do
+### 🧠 What I do
 
-- 🖥️ Build modern **full-stack web applications**
+- 🖥️ Build modern **web applications**
 - ⚙️ Design software systems and developer workflows
+- 💪 Learn web technologies
 - 🤖 Study **machine learning, deep learning & AI engineering**
 - 📐 Strengthen the **mathematics** behind ML and intelligent systems
-- 🧪 Learn by building projects, experimenting and solving problems
-- 🚀 Explore ideas that could eventually become **real products and companies**
+- 🧪 Learn by building projects, experimenting, researching and solving problems
+- 🚀 Explore ideas that could eventually become **real products** and **solves problems**
 
 ---
 
