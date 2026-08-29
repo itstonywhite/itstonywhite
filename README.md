@@ -12,25 +12,19 @@
 ### `Full-Stack Developer` · `Software Engineer` · `AI/ML Engineer in Progress`
 
 <p>
-  <a href="https://github.com/itstonywhite">
     <img src="https://img.shields.io/github/followers/itstonywhite?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/itstonywhite?tab=repositories">
     <img src="https://img.shields.io/github/stars/itstonywhite?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub stars"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=itstonywhite&label=PROFILE+VIEWS&style=for-the-badge&color=181717" alt="Profile views"/>
   
 </p>
 
 <p>
-  <a href="https://github.com/itstonywhite">
     <img src="https://img.shields.io/badge/GitHub-itstonywhite-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
   <a href="https://x.com/itstonywhite_">
-    <img src="https://img.shields.io/badge/X-%40itstonywhite__-000000?style=flat-square&logo=x" alt="X"/>
+    <img src="https://img.shields.io/badge/X-%40itstonywhite__-181717?style=flat-square&logo=x" alt="X"/>
   </a>
-  <a href="https://itstonywhite.github.io/Nexora/">
-    <img src="https://img.shields.io/badge/Live%20Project-Nexora-00a67d?style=flat-square&logo=googlechrome&logoColor=white" alt="Nexora"/>
+  <a href="mailto:itsthetonywhite@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-itsthetonywhite%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
