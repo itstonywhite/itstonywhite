@@ -64,13 +64,13 @@ I enjoy understanding how things work underneath and build them myself.
 ### 💻 Languages & Core
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Languages and core technologies"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash&theme=dark" alt="Languages and core technologies"/>
 </p>
 
 ### 🌐 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,bootstrap,webpack&theme=dark" alt="Frontend technologies"/>
 </p>
 
 ### ⚙️ Backend & Data
