@@ -60,7 +60,7 @@ I enjoy understanding how things work underneath the abstraction, not just learn
 ### 💻 Languages & Core
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash,cpp&theme=dark" alt="Languages and core technologies"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Languages and core technologies"/>
 </p>
 
 ### 🌐 Frontend
@@ -84,7 +84,15 @@ I enjoy understanding how things work underneath the abstraction, not just learn
 ### 🛠️ Tools & Platform
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arch,docker,figma,blender&theme=dark" alt="Tools and platforms"/>
+  <img src="https://skillicons.dev/icons?i=npm,git,github,linux,arch,docker,figma,vscode,pycharm,anaconda&theme=dark" alt="Tools and platforms"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white" alt="Spyder"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"/>
 </p>
 
 ---
