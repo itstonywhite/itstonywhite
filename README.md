@@ -1,7 +1,14 @@
 <div align="center">
 
-# 👋 Hey, I'm Tony White
+<!-- Hi There, I'm Tony White 👋 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1115,50:1c2128,100:30363d&height=220&section=header&text=Hi+There,+I'm+Tony+White+👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
+<!-- Roles Typing Animation -->
+<a href="https://github.com/itstonywhite">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=800&lines=Innovation+Enthusiast;Entrepreneur;AI+Engineer;ML+Engineer;Software+Engineer;Full-Stack+Developer;Front-End+Developer;Back-End+Developer" alt="Typing Roles" />
+</a>
+
+<!-- Roles -->
 ### `Full-Stack Developer` · `Software Engineer` · `AI/ML Engineer in Progress`
 
 <p>
@@ -11,7 +18,8 @@
   <a href="https://github.com/itstonywhite?tab=repositories">
     <img src="https://img.shields.io/github/stars/itstonywhite?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=itstonywhite&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=itstonywhite&label=PROFILE+VIEWS&style=for-the-badge&color=181717" alt="Profile views"/>
+  
 </p>
 
 <p>
