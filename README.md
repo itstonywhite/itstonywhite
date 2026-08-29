@@ -113,20 +113,20 @@ I enjoy understanding how things work underneath the abstraction, not just learn
 ## 📚 Currently Learning
 
 ```text
-                 CURRENT LEARNING PATH
-                           │
-            ┌──────────────┼────────────────┐
-            ▼              ▼                ▼
-       Mathematics     Software          AI / ML
-            │         Engineering           │
-            │              │                │
-     ┌──────┴──────┐  ┌────┴───────┐   ┌────┴────────┐
-     │ Calculus    │  │ TypeScript │   │ ML          │
-     │ Linear Alg  │  │ Next.js    │   │ Deep Learn  │
-     │ Probability │  │ Node.js    │   │ PyTorch     │
-     │ Statistics  │  │ Databases  │   │ CV, NLP     │
-     │ Optimization│  │ APIs       │   │ LLMs, Agent │
-     └─────────────┘  └────────────┘   └─────────────┘
+                  CURRENT LEARNING PATH
+                            │
+            ┌───────────────┼────────────────┐
+            ▼               ▼                ▼
+       Mathematics      Software          AI / ML
+            │          Engineering           │
+            │               │                │
+     ┌──────┴───────┐  ┌────┴───────┐   ┌────┴────────┐
+     │ Calculus     │  │ TypeScript │   │ ML          │
+     │ Linear Alg   │  │ Next.js    │   │ Deep Learn  │
+     │ Probability  │  │ Node.js    │   │ PyTorch     │
+     │ Statistics   │  │ Databases  │   │ CV, NLP     │
+     │ Optimization │  │ APIs       │   │ LLMs, Agent │
+     └──────────────┘  └────────────┘   └─────────────┘
 ```
 
 ### 🧮 Mathematics
