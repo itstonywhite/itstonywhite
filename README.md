@@ -82,7 +82,49 @@ I enjoy understanding how things work underneath and build them myself.
 ### 🤖 AI / ML / Scientific Computing
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python,numpy&theme=dark" alt="AI and machine learning technologies"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,opencv&theme=dark" alt="AI and machine learning technologies"/>
+  <div align="center">
+    <img
+      src="https://cdn.simpleicons.org/numpy/FFFFFF"
+      height="48"
+      alt="NumPy"
+    />
+    <img
+      src="https://cdn.simpleicons.org/pandas/FFFFFF"
+      height="48"
+      alt="Pandas"
+    />
+    <img
+      src="https://cdn.simpleicons.org/scipy/FFFFFF"
+      height="48"
+      alt="SciPy"
+    />
+    <img
+      src="https://cdn.simpleicons.org/langchain/FFFFFF"
+      height="48"
+      alt="LangChain"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+      height="48"
+      alt="Matplotlib"
+    />
+    <img
+      src="https://cdn.simpleicons.org/plotly/FFFFFF"
+      height="48"
+      alt="Plotly"
+    />
+    <img
+      src="https://cdn.simpleicons.org/huggingface/FFFFFF"
+      height="48"
+      alt="Hugging Face"
+    />
+    <img
+      src="https://cdn.simpleicons.org/ollama/FFFFFF"
+      height="48"
+      alt="Ollama"
+    />
+  </div>
 </p>
 
 ### 🛠️ Tools & Platform
