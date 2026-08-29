@@ -19,10 +19,10 @@
 
 <p>
     <img src="https://img.shields.io/badge/GitHub-itstonywhite-181717?style=flat-square&logo=github" alt="GitHub"/>
-  <a href="https://x.com/itstonywhite_" target="_blank">
+  <a href="https://x.com/itstonywhite_">
     <img src="https://img.shields.io/badge/X-%40itstonywhite__-181717?style=flat-square&logo=x" alt="X"/>
   </a>
-  <a href="mailto:itsthetonywhite@gmail.com" target="_blank">
+  <a href="mailto:itsthetonywhite@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-itsthetonywhite%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
