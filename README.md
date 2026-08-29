@@ -143,27 +143,6 @@ I enjoy understanding how things work underneath and build them myself.
 
 ---
 
-## 🎯 Professions & Skills
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🌐 Full-Stack Development</h3>
-      <p>Responsive interfaces, modern JavaScript, React, APIs, backend architecture and databases.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Software Engineering</h3>
-      <p>Clean architecture, problem solving, tooling, Git workflows, Linux and maintainable systems.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🤖 AI / ML Engineering</h3>
-      <p>Machine learning foundations, neural networks, computer vision and intelligent applications.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📚 Currently Learning
 
 ```text
@@ -171,16 +150,16 @@ I enjoy understanding how things work underneath and build them myself.
                             │
             ┌───────────────┼────────────────┐
             ▼               ▼                ▼
-       Mathematics      Software          AI / ML
+       Mathematics      Software          AI & ML
             │          Engineering           │
             │               │                │
-     ┌──────┴───────┐  ┌────┴───────┐   ┌────┴────────┐
-     │ Calculus     │  │ TypeScript │   │ ML          │
-     │ Linear Alg   │  │ Next.js    │   │ Deep Learn  │
-     │ Probability  │  │ Node.js    │   │ PyTorch     │
-     │ Statistics   │  │ Databases  │   │ CV, NLP     │
-     │ Optimization │  │ APIs       │   │ LLMs, Agent │
-     └──────────────┘  └────────────┘   └─────────────┘
+     ┌──────┴───────┐  ┌────┴───────┐  ┌─────┴───────┐
+     │ Calculus     │  │ TypeScript │  │ ML          │
+     │ Linear Alg   │  │ Next.js    │  │ Deep Learn  │
+     │ Probability  │  │ Node.js    │  │ PyTorch     │
+     │ Statistics   │  │ Databases  │  │ CV, NLP     │
+     │ Optimization │  │ APIs       │  │ LLMs, Agent │
+     └──────────────┘  └────────────┘  └─────────────┘
 ```
 
 ### 🧮 Mathematics
