@@ -15,15 +15,14 @@
     <img src="https://img.shields.io/github/followers/itstonywhite?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub followers"/>
     <img src="https://img.shields.io/github/stars/itstonywhite?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub stars"/>
   <img src="https://komarev.com/ghpvc/?username=itstonywhite&label=PROFILE+VIEWS&style=for-the-badge&color=181717" alt="Profile views"/>
-  
 </p>
 
 <p>
     <img src="https://img.shields.io/badge/GitHub-itstonywhite-181717?style=flat-square&logo=github" alt="GitHub"/>
-  <a href="https://x.com/itstonywhite_">
+  <a href="https://x.com/itstonywhite_" target="_blank">
     <img src="https://img.shields.io/badge/X-%40itstonywhite__-181717?style=flat-square&logo=x" alt="X"/>
   </a>
-  <a href="mailto:itsthetonywhite@gmail.com">
+  <a href="mailto:itsthetonywhite@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-itsthetonywhite%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
