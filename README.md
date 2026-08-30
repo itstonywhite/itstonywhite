@@ -14,8 +14,9 @@
 <!-- GitHub Info -->
 <p>
     <img src="https://img.shields.io/github/followers/itstonywhite?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub followers"/>
-    <img src="https://img.shields.io/github/stars/itstonywhite?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub stars"/>
-  <img src="https://komarev.com/ghpvc/?username=itstonywhite&label=PROFILE+VIEWS&style=for-the-badge&color=181717" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fitstonywhite%3Fy%3Dlast&query=%24.total.lastYear&label=Contributions&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub contributions"/>
+  <img src="https://img.shields.io/github/stars/itstonywhite?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub stars"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=itstonywhite&label=PROFILE+VIEWS&style=for-the-badge&color=181717" alt="Profile views"/> -->
 </p>
 
 <!-- Socials -->
