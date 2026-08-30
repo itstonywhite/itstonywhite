@@ -204,121 +204,13 @@ I enjoy understanding how things work underneath and build them myself.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=itstonywhite&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&theme=github_dark&rank_icon=github" alt="Tony's GitHub stats"/>
-  <img height="180" src="https://streak-stats.demolab.com/?user=itstonywhite&theme=github-dark-blue&hide_border=true&border_radius=18" alt="Tony's GitHub streak"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstonywhite&layout=compact&langs_count=10&hide_border=true&border_radius=18&theme=github_dark" alt="Top languages"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=itstonywhite&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itstonywhite&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=220&section=header&text=Hi+There,+I%27m+Tony+White&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI+and+ML+Engineer+in+the+Making&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://github.com/itstonywhite">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Machine+Learning+and+Deep+Learning;Building+with+Python+and+PyTorch;From+Web+Dev+to+AI+Engineer;Math+to+Models+to+Products;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=itstonywhite&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
-<br/>
-
-## 🧑‍💻 About Me
-
-- 🔭 Currently building my foundations in **AI/ML Engineering** — math, deep learning, and real projects, not just theory
-- 🌱 Learning: **PyTorch, Computer Vision, NLP, LLMs & GenAI, AI Agents, RAG, and MCP**
-- 💻 Already comfortable with **HTML, CSS, JavaScript, Tailwind, Bootstrap**, and the **Python data stack** (NumPy, Pandas, Matplotlib, Seaborn)
-- 🛠️ Leveling up on **backend engineering** and systems fundamentals next
-- 📈 My rule: every technology I learn gets turned into a real, working project — not just a finished book
-- ⚡ I'd rather ship a small working prototype than half-finish a "perfect" one
-
-<br/>
-
-## 🧰 Tech Stack
-
-**Languages & Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,firebase&theme=dark" alt="frontend stack" />
-
-**AI / Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn&theme=dark" alt="ai/ml stack" />
-
-**Data Science Toolkit**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
-
-**Backend & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,linux,git,githubactions&theme=dark" alt="backend stack" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" alt="tools" />
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itstonywhite&show_icons=true&theme=tokyonight&hide_border=true" alt="itstonywhite's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstonywhite&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=itstonywhite&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=itstonywhite&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itstonywhite/itstonywhite/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itstonywhite/itstonywhite/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itstonywhite/itstonywhite/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
-<!-- This only renders after you add the snake.yml workflow (provided separately) to
-     .github/workflows/ in this repo and let it run once. See the setup notes you were given. -->
-
-<br/>
-
-## 🌃 3D Contribution Graph
+## 🌃 Contribution Graph
 
 <div align="center">
 
@@ -326,75 +218,9 @@ I enjoy understanding how things work underneath and build them myself.
 
 </div>
 
-<!-- This renders once you add profile-3d-contrib.yml (provided separately) to
-     .github/workflows/ in this repo and run it once from the Actions tab. -->
-
-<br/>
-
-## 📫 Connect With Me
-
-<!-- Replace these three links with your real profiles before publishing -->
-<p align="center">
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=100&section=footer" width="100%"/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itstonywhite/itstonywhite/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itstonywhite/itstonywhite/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/itstonywhite/itstonywhite/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
-
-> 🟩 My contribution graph turned into a little snake.  
-> The animation is regenerated automatically from my GitHub contribution history.
-
 ---
 
-## 🚀 Featured Project
-
-### [`Nexora`](https://github.com/itstonywhite/Nexora)
-
-**Autonomous, software-defined robotics powered by AI.**
-
-<p>
-  <a href="https://github.com/itstonywhite/Nexora">
-    <img src="https://img.shields.io/github/stars/itstonywhite/Nexora?style=for-the-badge&logo=github&label=Stars" alt="Nexora stars"/>
-  </a>
-  <a href="https://itstonywhite.github.io/Nexora/">
-    <img src="https://img.shields.io/badge/View%20Live-Demo-00a67d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Nexora live"/>
-  </a>
-</p>
-
-Nexora is one of my projects exploring the intersection of **software, robotics and AI**.
-
----
-
-## 🔭 What I'm Building Toward
-
-```text
-                 ┌───────────────────────────┐
-                 │     SOFTWARE + AI          │
-                 │       ENGINEERING          │
-                 └─────────────┬─────────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ▼                 ▼                 ▼
-         Web Products      Intelligent       Developer
-         & Platforms       Systems           Tools
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               ▼
-                    🚀 REAL-WORLD PRODUCTS
-```
-
-My long-term direction is to combine **software engineering + mathematics + AI** to build useful, ambitious technology products.
-
----
+<br />
 
 ## 💡 Interests
 
@@ -405,35 +231,6 @@ My long-term direction is to combine **software engineering + mathematics + AI**
 `Developer Tools` · `Automation` · `Startups` · `Product Building`
 
 </p>
-
----
-
-## 📈 Developer Mindset
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>🧠</h3>
-      <b>Understand</b><br/>
-      Learn the fundamentals.
-    </td>
-    <td align="center" width="25%">
-      <h3>🛠️</h3>
-      <b>Build</b><br/>
-      Turn knowledge into software.
-    </td>
-    <td align="center" width="25%">
-      <h3>🧪</h3>
-      <b>Experiment</b><br/>
-      Break things. Test ideas.
-    </td>
-    <td align="center" width="25%">
-      <h3>🚀</h3>
-      <b>Ship</b><br/>
-      Make it real.
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -448,13 +245,11 @@ My long-term direction is to combine **software engineering + mathematics + AI**
   </a>
 </p>
 
----
+<br/>
 
 <div align="center">
 
 ### `Code. Learn. Build. Repeat. 🚀`
-
-<sub>Built with curiosity, caffeine, mathematics and a slightly unreasonable amount of ambition.</sub>
 
 <br/>
 
