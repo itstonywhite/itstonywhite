@@ -131,13 +131,13 @@ I enjoy understanding how things work underneath and build them myself.
 ### 🎨 Creative Tools & Softwares
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects&theme=dark" alt="Tools and platforms"/>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,premiere,aftereffects&theme=dark" alt="Tools and platforms"/>
 </p>
 
 ### 🛠️ Tools & Platform
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,githubactions,git,github,linux,arch,docker,figma,vscode,pycharm,anaconda&theme=dark" alt="Tools and platforms"/>
+  <img src="https://skillicons.dev/icons?i=npm,githubactions,git,github,linux,arch,docker,vscode,pycharm,anaconda&theme=dark" alt="Tools and platforms"/>
 </p>
 
 <p align="center">
