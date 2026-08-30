@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hi There, I'm Tony White 👋 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1115,50:1c2128,100:30363d&height=220&section=header&text=Hi+There,+I'm+Tony+White+👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1115,50:1c2128,100:30363d&height=220&section=header&text=Hey,+I'm+Tony+White+👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Roles Typing Animation -->
 <a href="https://github.com/itstonywhite">
