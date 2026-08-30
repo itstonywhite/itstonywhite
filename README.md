@@ -224,9 +224,7 @@ I enjoy understanding how things work underneath and build them myself.
 
 <p align="center">
 
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Computer Vision`  
-`Software Engineering` · `Web Development` · `Robotics` · `Mathematics`  
-`Developer Tools` · `Automation` · `Startups` · `Product Building`
+`Innovation` · `Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Computer Vision` · `Natural Language Processing` · `AI Agents` · `Software Engineering` · `Web Development` · `Robotics` · `Mathematics` · `Automation` · `Startups` · `Technology`
 
 </p>
 
@@ -239,7 +237,9 @@ I enjoy understanding how things work underneath and build them myself.
     <img src="https://img.shields.io/badge/GitHub-itstonywhite-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://x.com/itstonywhite_">
-    <img src="https://img.shields.io/badge/X-%40itstonywhite__-000000?style=for-the-badge&logo=x" alt="X"/>
+    <img src="https://img.shields.io/badge/X-%40itstonywhite__-181717?style=for-the-badge&logo=x" alt="X"/>
+  </a>
+  <a href="mailto:itsthetonywhite@gmail.com"> <img src="https://img.shields.io/badge/Email-itsthetonywhite%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -249,8 +249,5 @@ I enjoy understanding how things work underneath and build them myself.
 
 ### `Code. Learn. Build. Repeat. 🚀`
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:161b22,100:238636&height=120&section=footer" alt="Footer wave"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer" alt="Footer wave"/>
 </div>
