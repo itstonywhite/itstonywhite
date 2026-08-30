@@ -224,7 +224,7 @@ I enjoy understanding how things work underneath and build them myself.
 
 <p align="center">
 
-`Innovation` · `Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Computer Vision` · `Natural Language Processing` · `AI Agents` · `Software Engineering` · `Web Development` · `Robotics` · `Mathematics` · `Automation` · `Startups` · `Technology`
+`Innovation` · `Technology` · `Startups` · `Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Computer Vision` · `Natural Language Processing` · `AI Agents` · `Robotics` · `Software Engineering` · `Web Development` · `Mobile Development` · `Mathematics` · `Automation` · `Simulation`
 
 </p>
 
