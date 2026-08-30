@@ -128,6 +128,12 @@ I enjoy understanding how things work underneath and build them myself.
   </div>
 </p>
 
+### 🎨 Creative Tools & Softwares
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects&theme=dark" alt="Tools and platforms"/>
+</p>
+
 ### 🛠️ Tools & Platform
 
 <p align="center">
