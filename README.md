@@ -131,7 +131,7 @@ I enjoy understanding how things work underneath and build them myself.
 ### 🛠️ Tools & Platform
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,git,github,linux,arch,docker,figma,vscode,pycharm,anaconda&theme=dark" alt="Tools and platforms"/>
+  <img src="https://skillicons.dev/icons?i=npm,githubactions,git,github,linux,arch,docker,figma,vscode,pycharm,anaconda&theme=dark" alt="Tools and platforms"/>
 </p>
 
 <p align="center">
