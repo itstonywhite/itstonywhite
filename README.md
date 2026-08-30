@@ -220,8 +220,6 @@ I enjoy understanding how things work underneath and build them myself.
 
 ---
 
-<br />
-
 ## 💡 Interests
 
 <p align="center">
