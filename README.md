@@ -230,7 +230,7 @@ I enjoy understanding how things work underneath and build them myself.
 
 <p align="center">
 
-`Innovation` · `Technology` · `Startups` · `Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Computer Vision` · `Natural Language Processing` · `AI Agents` · `Robotics` · `Software Engineering` · `Web Development` · `Mobile Development` · `Mathematics` · `Physics` · `Automation` · `Simulation`
+`Innovation` · `Technology` · `Startups` · `Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Reinforcement Learning` · `Computer Vision` · `Natural Language Processing` · `AI Agents` · `Robotics` · `Software Engineering` · `Web Development` · `Mobile Development` · `Mathematics` · `Physics` · `Automation` · `Simulation`
 
 </p>
 
