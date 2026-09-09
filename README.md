@@ -224,6 +224,8 @@ I enjoy understanding how things work underneath and build them myself.
 
 </div>
 
+
+
 ---
 
 ## 💡 Interests
@@ -257,3 +259,5 @@ I enjoy understanding how things work underneath and build them myself.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer" alt="Footer wave"/>
 </div>
+
+<!-- End -->
