@@ -211,7 +211,10 @@ I enjoy understanding how things work underneath and build them myself.
 ## 📊 GitHub Analytics
 
 <div align="center">
+
   <img src="https://streak-stats.demolab.com?user=itstonywhite&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <img src="https://github-readme-activity-graph-ashen-two.vercel.app/graph?username=itstonywhite&bg_color=0d1117&color=fff&line=fff&point=fff&area=true&area_color=fff&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
