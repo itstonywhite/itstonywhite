@@ -80,7 +80,7 @@ I enjoy understanding how things work underneath and build them myself.
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres&theme=dark" alt="Backend and databases"/>
 </p>
 
-### 🤖 AI / ML / Scientific Computing
+### 🤖 AI / ML
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,opencv&theme=dark" alt="AI and machine learning technologies"/>
