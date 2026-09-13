@@ -169,43 +169,6 @@ I enjoy understanding how things work underneath and build them myself.
      └──────────────┘  └────────────┘  └─────────────┘
 ```
 
-### 🧮 Mathematics
-
-- Linear Algebra
-- Calculus
-- Probability
-- Statistics
-- Optimization
-
-### 🧠 AI / ML
-
-- Machine Learning
-- Neural Networks
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Large Language Models
-- RAG Systems
-- AI Agents
-- MCP (Model Contex Protocol)
-
-### 🚀 Software & Product Engineering
-
-- TypeScript
-- React
-- Redux
-- Next.js
-- Web Socket
-- Node.js
-- Express.js
-- Nest.js
-- MongoDB
-- MySQL
-- PostgreSQL
-- Docker
-- Webpack
-- Cloud & deployment workflows
-
 ---
 
 ## 📊 GitHub Analytics
