@@ -160,13 +160,13 @@ I enjoy understanding how things work underneath and build them myself.
        Mathematics      Software          AI & ML
             │          Engineering           │
             │               │                │
-     ┌──────┴───────┐  ┌────┴───────┐  ┌─────┴───────┐
-     │ Calculus     │  │ TypeScript │  │ ML          │
-     │ Linear Alg   │  │ Next.js    │  │ Deep Learn  │
-     │ Probability  │  │ Node.js    │  │ PyTorch     │
-     │ Statistics   │  │ Databases  │  │ CV, NLP     │
-     │ Optimization │  │ APIs       │  │ LLMs, Agent │
-     └──────────────┘  └────────────┘  └─────────────┘
+     ┌──────┴───────┐  ┌────┴───────┐  ┌─────┴────────┐
+     │ Calculus     │  │ TypeScript │  │ ML           │
+     │ Linear Alg   │  │ Next.js    │  │ Deep Learn   │
+     │ Probability  │  │ Node.js    │  │ PyTorch      │
+     │ Statistics   │  │ Databases  │  │ CV, NLP      │
+     │ Optimization │  │ APIs       │  │ LLMs, Agents │
+     └──────────────┘  └────────────┘  └──────────────┘
 ```
 
 ---
