@@ -74,7 +74,7 @@ I enjoy understanding how things work underneath and build them myself.
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,bootstrap,webpack&theme=dark" alt="Frontend technologies"/>
 </p>
 
-### ⚙️ Back-End
+### ⚙️ Back-End & Data
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres&theme=dark" alt="Backend and databases"/>
