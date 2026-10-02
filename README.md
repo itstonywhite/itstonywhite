@@ -62,19 +62,19 @@ I enjoy understanding how things work underneath and build them myself.
 
 ## 🧰 Tech Stack
 
-### 💻 Languages & Core
+### 💻 Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash&theme=dark" alt="Languages and core technologies"/>
 </p>
 
-### 🌐 Frontend
+### 🌐 Front-End
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,bootstrap,webpack&theme=dark" alt="Frontend technologies"/>
 </p>
 
-### ⚙️ Backend & Data
+### ⚙️ Back-End
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres&theme=dark" alt="Backend and databases"/>
