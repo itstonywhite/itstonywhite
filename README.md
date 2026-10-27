@@ -148,8 +148,6 @@ I enjoy understanding how things work underneath and build them myself.
   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"/>
 </p>
 
----
-
 ## 📚 Currently Learning
 
 ```text
