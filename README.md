@@ -169,6 +169,8 @@ I enjoy understanding how things work underneath and build them myself.
      └──────────────┘  └────────────┘  └──────────────┘
 ```
 
+<!--
+
 ---
 
 ## 📊 GitHub Analytics
@@ -176,6 +178,8 @@ I enjoy understanding how things work underneath and build them myself.
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=itstonywhite&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+-->
 
 ---
 
